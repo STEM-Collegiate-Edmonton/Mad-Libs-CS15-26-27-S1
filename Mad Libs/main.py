@@ -7,6 +7,7 @@ plural_noun = input(f"Plural noun\n")
 adjective_2 = input(f"Another adjective\n")
 
 print(noun)
+print(adjective)
 print(verb)
 print(name)
 print(number)
