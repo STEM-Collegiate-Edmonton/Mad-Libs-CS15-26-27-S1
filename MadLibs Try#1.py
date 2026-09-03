@@ -1,0 +1,17 @@
+name = input("What is your name? ")
+like = input("What type of things do you like?")
+hate = input("What type of things do you hate?")
+family = input("What is the name of your family members?")
+friends = input("What is the name of your friends?")
+print("Hello", name, "You like", like, "and hate", hate, "I know your family members", family, "and your friends", friends)
+
+print()
+name = input("What is your name? ")
+enemy = input("What is your worst enemy’s name? ")
+superPower = input("What is your superpower? ")
+live = input("What's your favorite place you either live or want to go to?")
+food = input("What is your favorite food?")
+
+print()
+print("Hello", name, "You have the ability to", superPower, "will make sure you never have to look at", enemy, "again.")
+print("Go eat some", food, "as stroll down the streets", live, "and use your", superPower, "for good and never for evil! ")
