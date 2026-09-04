@@ -52,7 +52,12 @@ Before we get too far ahead of ourselves, we should test to make sure all of our
 
 ```python main.py
 print(noun)
-
+print(adjective)
+print(verb)
+print(name)
+print(number)
+print(plural_noun)
+print(adjective_2)
 # Add the rest down here on your own!
 ```
 
