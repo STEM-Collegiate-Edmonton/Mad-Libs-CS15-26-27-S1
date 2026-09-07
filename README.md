@@ -12,7 +12,7 @@ Before starting this activity, be sure to have completed:
 
 Whenever you are creating a new Python project, it is best to stay organized by placing all the files related to the project in the same folder. Create a folder for this activity.
 
-Inside the folder, create a new `main.py` file.
+Inside the folder, create a new `extension.py` file.
 
 ## 2. Planning out the Mad Lib
 
