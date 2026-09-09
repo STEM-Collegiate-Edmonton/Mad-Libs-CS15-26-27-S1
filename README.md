@@ -10,7 +10,7 @@ If you'd like you can follow along in [this video here](https://youtu.be/bzqTR1d
 
 Whenever you are creating a new Python project, it is best to stay organized by placing all the files related to the project in the same folder. Create a folder for this activity.
 
-Inside the folder, create a new `main.py` file.
+Inside the folder, create a new `root/main.py` file.
 
 ## 2. Planning out the Mad Lib
 
